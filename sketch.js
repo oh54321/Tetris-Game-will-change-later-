@@ -1,7 +1,7 @@
 
 let img;
 function preload() {
-  img = loadImage('assets/token.png');
+  img = loadImage('Assets/token.png');
 }
 function setup() {
   createCanvas(800, 1600);
